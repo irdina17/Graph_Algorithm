@@ -1,0 +1,11 @@
+To run the code, the user need to choose one of the options listed in main menu.
+
+<1> Option 1: Add a new edge- Enter the ID of source vertex and destination vertex 
+<2> Option 2: Delete edge- Enter the ID of source vertex and destination vertex 
+<3> Option 3: Print graph
+<4> Option 4: Reset graph to get the default graph
+<5> Option 5: Strongly connected
+<6> Option 6: Cycle detection
+<7> Option 7: Shortest path- Enter the ID of source vertex and destination vertex 
+<8> Option 8: Minimum Spanning Tree- Enter number of edges and the ID of the vertices
+<9> Option 0: Exit the program
